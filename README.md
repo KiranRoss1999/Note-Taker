@@ -14,10 +14,6 @@ Tool to generate and save users notes
 ## Installation
 Clone repo, install dependencies with 'npm install', run 'node server.js'
 
-or
-
-Visit the website here:
-
 ## Usage
 Access the application in your browser at http://localhost:3001 to view, add, and delete notes.
 
