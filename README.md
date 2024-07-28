@@ -17,6 +17,10 @@ Clone repo, install dependencies with 'npm install', run 'node server.js'
 ## Usage
 Access the application in your browser at http://localhost:3001 to view, add, and delete notes.
 
+or 
+
+visit the website here: https://note-taker-bkc0.onrender.com
+
 ## License
 
 ## Contributing
