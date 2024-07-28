@@ -19,7 +19,7 @@ Access the application in your browser at http://localhost:3001 to view, add, an
 
 or 
 
-visit the website here: https://note-taker-bkc0.onrender.com
+visit the website here: https://kirans-note-taker.onrender.com
 
 ## License
 
